@@ -1,16 +1,12 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=32&pause=1000&color=8A2BE2&center=true&vCenter=true&width=800&lines=Hi+👋,+I'm+Varsha;Aspiring+Full+Stack+Developer;Information+Science+Engineering+Student;Currently+Learning+SQL+%26+Python;Welcome+to+my+GitHub+Profile!" />
+<p align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=30&pause=1000&color=000000&background=FFFFFF00&vCenter=true&width=700&lines=Hi,+I'm+Varsha;Aspiring+Full+Stack+Developer;Information+Science+Engineering+Student;Currently+Learning+SQL+and+Python" alt="Typing Animation" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=varshaa-suvarna&label=Profile%20Views&color=blueviolet&style=for-the-badge"/>
-</p>
+# Hi, I'm Varsha 👋
 
-<h1 align="center">Hi 👋, I'm Varsha</h1>
+### Aspiring Full Stack Developer
 
-<h3 align="center">
-Aspiring Full Stack Developer | Information Science Engineering Student
-</h3>
+I'm an Information Science Engineering student passionate about software development and continuously learning new technologies.
 
 ---
 
@@ -18,56 +14,34 @@ Aspiring Full Stack Developer | Information Science Engineering Student
 
 - 🎓 Information Science Engineering Student
 - 🌱 Currently learning **SQL** and **Python**
-- 💻 Passionate about Full Stack Development
-- 📚 Improving my problem-solving and programming skills
-- 🚀 Goal: Become a Skilled Full Stack Developer
+- 💻 Interested in Full Stack Development
+- 📚 Improving problem-solving skills
+- 🚀 Working towards becoming a skilled Full Stack Developer
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Currently Learning
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,git,github,mysql,vscode"/>
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&row=1&column=6"/>
-</p>
+- SQL
+- Python
+- Git
+- GitHub
 
 ---
 
-## 📊 GitHub Stats
+## 🎯 Goals
 
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-## 📈 Contribution Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
-</p>
+- Build real-world projects
+- Master Full Stack Development
+- Strengthen Data Structures & Algorithms
+- Contribute to Open Source
 
 ---
 
-## 🌐 Connect With Me
+## 📫 Connect with Me
 
-<p align="center">
-<a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-</p>
+- 💼 LinkedIn: YOUR_LINKEDIN_URL
 
 ---
 
-<p align="center">
-⭐ Thank you for visiting my GitHub profile! ⭐
-</p>
+> *"Every expert was once a beginner. Keep learning, keep building."* 🚀
