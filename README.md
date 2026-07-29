@@ -1,12 +1,6 @@
-<p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=30&pause=1000&color=000000&background=FFFFFF00&vCenter=true&width=700&lines=Hi,+I'm+Varsha;Aspiring+Full+Stack+Developer;Information+Science+Engineering+Student;Currently+Learning+SQL+and+Python" />
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=32&pause=1200&color=FFFFFF&center=true&vCenter=true&width=750&lines=Hi,+I'm+Varsha;Aspiring+Full+Stack+Developer;Information+Science+Engineering+Student" alt="Typing SVG" />
 </p>
-
-# Hi, I'm Varsha 👋
-
-### Aspiring Full Stack Developer
-
-I'm an Information Science Engineering student passionate about software development and continuously learning new technologies.
 
 ---
 
@@ -14,34 +8,42 @@ I'm an Information Science Engineering student passionate about software develop
 
 - 🎓 Information Science Engineering Student
 - 🌱 Currently learning **SQL** and **Python**
-- 💻 Interested in Full Stack Development
-- 📚 Improving problem-solving skills
-- 🚀 Working towards becoming a skilled Full Stack Developer
+- 💻 Passionate about Full Stack Development
+- 📚 Improving my problem-solving and programming skills
+- 🚀 Goal: Become a Skilled Full Stack Developer
 
 ---
 
-## 🛠️ Currently Learning
+## 🛠️ Tech Stack
 
-- SQL
-- Python
-- Git
-- GitHub
-
----
-
-## 🎯 Goals
-
-- Build real-world projects
-- Master Full Stack Development
-- Strengthen Data Structures & Algorithms
-- Contribute to Open Source
+<p>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</p>
 
 ---
 
-## 📫 Connect with Me
+## 📊 GitHub Stats
 
-- 💼 LinkedIn: YOUR_LINKEDIN_URL
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=varshaaa-suvarna&show_icons=true&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=varshaaa-suvarna&layout=compact&theme=tokyonight" height="170"/>
+</p>
 
 ---
 
-> *"Every expert was once a beginner. Keep learning, keep building."* 🚀
+## 🌐 Connect With Me
+
+<p>
+<a href="YOUR_LINKEDIN_URL">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+</p>
+
+---
+
+<p align="center">
+⭐ Thanks for visiting my GitHub profile! ⭐
+</p>
