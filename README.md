@@ -1,5 +1,8 @@
+## 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=32&pause=1200&color=FFFFFF&center=true&vCenter=true&width=750&lines=Hi,+I'm+Varsha;Aspiring+Full+Stack+Developer;Information+Science+Engineering+Student" alt="Typing SVG" />
+  <img src="https://github-readme-stats.vercel.app/api?username=varshaaa-suvarna&show_icons=true&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=varshaaa-suvarna&layout=compact&theme=tokyonight" height="170"/>
 </p>
 
 ---
