@@ -1,13 +1,16 @@
-## 📊 GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=varshaaa-suvarna&show_icons=true&theme=tokyonight" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=varshaaa-suvarna&layout=compact&theme=tokyonight" height="170"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=32&pause=1200&color=FFFFFF&center=true&vCenter=true&width=750&lines=Hi,+I'm+Varsha;Aspiring+Full+Stack+Developer;Information+Science+Engineering+Student;Currently+Learning+SQL+and+Python" alt="Typing SVG" />
 </p>
+
+<h1 align="center">Hi 👋, I'm Varsha</h1>
+
+<h3 align="center">
+Aspiring Full Stack Developer | Information Science Engineering Student
+</h3>
 
 ---
 
-## 👩‍💻 About Me
+## 👩‍💻 Do You Want To Know About Me?
 
 - 🎓 Information Science Engineering Student
 - 🌱 Currently learning **SQL** and **Python**
@@ -28,19 +31,19 @@
 
 ---
 
-## 📊 GitHub Stats
+## 🎯 Goals
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=varshaaa-suvarna&show_icons=true&theme=tokyonight" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=varshaaa-suvarna&layout=compact&theme=tokyonight" height="170"/>
-</p>
+- 🚀 Become a Full Stack Developer
+- 💡 Build real-world projects
+- 📚 Master SQL and Python
+- 🌍 Contribute to Open Source
 
 ---
 
 ## 🌐 Connect With Me
 
 <p>
-<a href="YOUR_LINKEDIN_URL">
+<a href="https://www.linkedin.com/in/varsha-poojary-258751312?utm_source=share_via&utm_content=profile&utm_medium=member_android">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 </p>
